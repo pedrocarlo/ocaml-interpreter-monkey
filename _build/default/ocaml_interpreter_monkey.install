@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/ocaml_interpreter_monkey/META"
+  "_build/install/default/lib/ocaml_interpreter_monkey/dune-package"
+  "_build/install/default/lib/ocaml_interpreter_monkey/opam"
+]
+bin: [
+  "_build/install/default/bin/ocaml_interpreter_monkey"
+]
+doc: [
+  "_build/install/default/doc/ocaml_interpreter_monkey/README.md"
+]

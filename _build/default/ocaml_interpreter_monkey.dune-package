@@ -1,0 +1,7 @@
+(lang dune 3.12)
+(name ocaml_interpreter_monkey)
+(sections (lib .) (bin ../../bin) (doc ../../doc/ocaml_interpreter_monkey))
+(files
+ (lib (META dune-package opam))
+ (bin (ocaml_interpreter_monkey))
+ (doc (README.md)))

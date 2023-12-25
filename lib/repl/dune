@@ -1,0 +1,4 @@
+(library
+ (name repl)
+ (modules repl)
+ (libraries core stdio lexer))

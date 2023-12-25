@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml_interpreter_monkey)
+ (name main)
+ (libraries ocaml_interpreter_monkey core lexer repl))
